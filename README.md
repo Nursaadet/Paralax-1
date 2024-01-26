@@ -1,1 +1,1 @@
-#degisiklik kaydedildi.
+#Degisiklik kaydedildi.
